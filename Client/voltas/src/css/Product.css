@@ -1,0 +1,84 @@
+.card-body {
+    }
+.btn1{
+  
+  background-color: lightpink; 
+  border: none; 
+  color: white; 
+  padding: 15px 24px; 
+  font-size: 16px; 
+  cursor: pointer;
+  margin:left 2px;
+  justify-content: space-between;
+  /* outline: #09b2e6 solid 8px; */
+  border-radius: 8px
+  
+  
+
+
+}
+.btn2{
+
+  
+    background-color:lightpink; 
+    border: none; 
+    color: white; 
+    padding: 15px 26px; 
+    font-size: 16px; 
+    cursor: pointer;
+    /* outline: #0898f8 solid 8px; */
+    border-radius: 8px
+
+}
+.div{
+  /* margin: 2px opx 2px 2px; */
+  display: flex;
+  justify-content: space-between;
+}
+.inp1{
+  background-color: #11e7dd;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  outline: #05fae5 solid 4px;
+}
+.inp2{
+  background-color: #11e7dd;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  outline: #05fae5 solid 4px;
+
+
+
+}
+.inp3{
+  background-color: #11e7dd;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  outline: #05fae5 solid 4px;
+
+
+}
+.add1{
+  /* outline: #0a2066 solid 4px; */
+
+
+
+
+}
+.img{
+  padding: 20px;
+  margin: 10px;
+
+}
